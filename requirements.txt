@@ -1,8 +1,5 @@
 numpy
-math
 scipy
 matplotlib
 ipywidgets
 voila
-time
-decimal
